@@ -50,7 +50,7 @@ python
 微信：Archers-999
 QQ：601653490
 邮箱：601653490@qq.com
-GitHub：github.com/yourprofile
+GitHub：https://github.com/Nick-Ye-2025
  
 🔔 承诺：
 需求保密协议签署
